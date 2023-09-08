@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @talhabee17seecs
-- 👀 I’m interested in Digital signal processing, Image processing and Wireless communication
-- 💞️ I’m looking to collaborate on projects related to optimization of wireless communication, Computer vision applications
 
 
 <!---
